@@ -15,7 +15,7 @@ to perform change point detection in one of the simulation scenarios is saved.
 
 Links to the authors
 
-Peiliang Bai: https://www.linkedin.com/in/peiliang-bai-7b3ba4121/
+Peiliang Bai: https://kevinbai92.github.io/
 
 Abolfazl Safikhani: https://sites.google.com/site/abolfazlsafikhani/
 
