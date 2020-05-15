@@ -8,7 +8,7 @@ This repository contains code to reproduce results in
 
 Peiliang Bai, Abolfazl Safikhani, and George Michailidis. "Multiple Change Point Detection in Low Rank and Sparse High Dimensional VAR Models".
 
-Link: ---
+Link: https://ieeexplore.ieee.org/document/9091033
 
 In this repository, the R code to reproduce the stock price data and surveilance data as well as a sample code
 to perform change point detection in one of the simulation scenarios is saved.
